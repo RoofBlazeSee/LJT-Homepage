@@ -16,7 +16,7 @@ My research focuses on natural language processing and machine learning.
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–Present  
   HKUST NLP Group; supervisor: Prof. Junxian He.
 - **B.Eng.**, Shanghai Jiao Tong University, 2020–2024  
-  Graduated in June 2024.
+  Graduated in June 2024. Undergraduate advisor: Prof. Junxian He.
 
 ## Research Experience
 
