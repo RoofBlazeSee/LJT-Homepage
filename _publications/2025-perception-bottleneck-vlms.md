@@ -1,8 +1,7 @@
 ---
 title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
-permalink: /publications/perception-bottleneck-vlms/
-date: 2025-01-01
+year: 2025
 venue: 'arXiv'
 publication_order: 2
 excerpt: "First author: Junteng Liu."

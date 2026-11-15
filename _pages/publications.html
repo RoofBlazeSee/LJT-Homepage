@@ -15,7 +15,7 @@ author_profile: true
 {% for post in publications %}
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
-    <p><em>{{ post.venue }}, {{ post.date | date: "%Y" }}</em></p>
+    <p><em>{{ post.venue }}, {{ post.year }}</em></p>
     <div class="archive__item-excerpt" itemprop="description">
       {{ post.content | markdownify }}
     </div>

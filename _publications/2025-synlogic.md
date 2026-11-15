@@ -1,8 +1,7 @@
 ---
 title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
 collection: publications
-permalink: /publications/synlogic/
-date: 2025-01-01
+year: 2025
 venue: 'arXiv'
 publication_order: 1
 excerpt: "First author: Junteng Liu."

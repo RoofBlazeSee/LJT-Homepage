@@ -1,8 +1,7 @@
 ---
 title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-permalink: /publications/universal-truthfulness-hyperplane/
-date: 2024-01-01
+year: 2024
 venue: 'EMNLP'
 publication_order: 3
 excerpt: "First author: Junteng Liu."

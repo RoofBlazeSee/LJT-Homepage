@@ -1,8 +1,7 @@
 ---
 title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
 collection: publications
-permalink: /publications/ceval/
-date: 2023-01-01
+year: 2023
 venue: 'NeurIPS'
 publication_order: 5
 excerpt: "Co-author: Junteng Liu."
