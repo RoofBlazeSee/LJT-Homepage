@@ -29,7 +29,7 @@ I am a first-year PhD candidate at the HKUST NLP Group, advised by Professor Jun
 
 ## Publications
 
-A full list of publications is also available on the [Publications](/publications/) page.
+A full list of publications is also available on the [Publications]({{ '/publications/' | relative_url }}) page.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — *First author*. Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. arXiv. [Code](https://github.com/MiniMax-AI/SynLogic)
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — *First author*. Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. arXiv. [Code](https://github.com/hkust-nlp/Vision4Chart)
